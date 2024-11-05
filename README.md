@@ -2,7 +2,7 @@
 
 I'm a Computer Engineering student at [Inteli](https://www.inteli.edu.br/). 
 
-I'm interested in **Machine Learning**, creating **data-driven solutions**, and exploring the power of data to solve real-world challenges. My goal is to build impactful projects and continuously expand my expertise in **data science** and **AI**.
+I'm interested in **Data Science & **Machine Learning**, creating **data-driven solutions**, and exploring the power of data to solve real-world challenges. My goal is to build impactful projects and continuously expand my expertise in **data science** and **AI**.
 
 My main skills include **Python**, **Pandas**, **SQL**, **C** and **JavaScript**.
 
