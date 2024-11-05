@@ -8,14 +8,12 @@ My main skills include **Python**, **Pandas**, **SQL**, **C** and **JavaScript**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" width="40" title="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40"/>
 
 </p>
 
 #### Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_username&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julialveszz&layout=compact&theme=dark)
 
 #### Connect with me:
 <a href="https://www.linkedin.com/in/júlia-alvesdejesus/">
