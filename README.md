@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi! I'm Júlia 👋
 
-<!--
-**julialveszz/julialveszz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student with a focus on **Data Science** at [Inteli](https://www.inteli.edu.br/).
 
-Here are some ideas to get you started:
+My main skills include **Python**, **Pandas**, **SQL**, **C** and **JavaScript**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech Stack:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" width="40" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40"/>
+
+</p>
+
+#### Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_username&layout=compact&theme=dark)
+
+#### Connect with me:
+<a href="https://www.linkedin.com/in/júlia-alvesdejesus/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
